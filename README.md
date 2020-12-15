@@ -7,24 +7,24 @@ animals from the included categories:
 
 <h4>Categories</h4><br />
 bald eagle images: 748<br />
-black bear images: 718    
-cougar images: 680    
-elk images: 660    
-graywolf images: 730     
-mountain beaver images: 577    
-bobcat images: 696    
-nutria images: 701    
-coyote images: 736    
-columbian black-tailed deer images: 735    
-seals images: 698    
-canada lynx images: 717     
-ringtail images: 588     
-redfox images: 759    
-grayfox images: 668     
-virginia opossum images: 728    
-sea_lions images: 726    
-raccoon images: 728    
-raven images: 656    
-deer images: 764    
+black bear images: 718<br />
+cougar images: 680<br />
+elk images: 660<br />
+graywolf images: 730<br />
+mountain beaver images: 577<br />
+bobcat images: 696<br />
+nutria images: 701<br />
+coyote images: 736<br />
+columbian black-tailed deer images: 735<br />
+seals images: 698<br />
+canada lynx images: 717<br />
+ringtail images: 588<br />
+redfox images: 759<br />
+grayfox images: 668<br />
+virginia opossum images: 728<br />
+sea_lions images: 726<br />
+raccoon images: 728<br />
+raven images: 656<br />
+deer images: 764<br />
 
 There is also an already pre-processed subset of the data saved in a hd5 file that is not used as part of this exercise.
