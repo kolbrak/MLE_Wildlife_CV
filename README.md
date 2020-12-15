@@ -3,9 +3,10 @@
 Computer Vision for Wildlife Camera
 
 Using the https://www.kaggle.com/virtualdvid/oregon-wildlife dataset a computer vision project is created to idenitfy 
-animals from the included categories:
+animals from the included categories:\s\s
 
-baldeagle images: 748 folder: blackbear images: 718
+baldeagle images: 748 
+blackbear images: 718
 cougar images: 680
 elk images: 660
 graywolf images: 730 
