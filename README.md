@@ -1,4 +1,4 @@
-# Machine Learning Engineernig Nano Degree Capstone Project
+# Machine Learning Engineering Nano Degree Capstone Project
 
 Computer Vision for Wildlife Camera
 
